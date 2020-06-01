@@ -1,0 +1,133 @@
+id;tcode;fred;Description
+1;5;RPI;Real Personal Income
+2;5;W875RX1;Real personal income ex transfer receipts
+6;5;INDPRO;IP Index
+7;5;IPFPNSS;IP: Final Products and Nonindustrial Supplies
+8;5;IPFINAL;IP: Final Products (Market Group)
+9;5;IPCONGD;IP: Consumer Goods
+10;5;IPDCONGD;IP: Durable Consumer Goods
+11;5;IPNCONGD;IP: Nondurable Consumer Goods
+12;5;IPBUSEQ;IP: Business Equipment
+13;5;IPMAT;IP: Materials
+14;5;IPDMAT;IP: Durable Materials
+15;5;IPNMAT;IP: Nondurable Materials
+16;5;IPMANSICS;IP: Manufacturing (SIC)
+17;5;IPB51222s;IP: Residential Utilities
+18;5;IPFUELS;IP: Fuels
+19;1;NAPMPI;ISM Manufacturing: Production Index
+20;2;CUMFNS;Capacity Utilization: Manufacturing
+21;2;HWI;Help-Wanted Index for United States
+22;2;HWIURATIO;Ratio of Help Wanted/No. Unemployed
+23;5;CLF16OV;Civilian Labor Force
+24;5;CE16OV;Civilian Employment
+25;2;UNRATE;Civilian Unemployment Rate
+26;2;UEMPMEAN;Average Duration of Unemployment (Weeks)
+27;5;UEMPLT5;Civilians Unemployed - Less Than 5 Weeks
+28;5;UEMP5TO14;Civilians Unemployed for 5-14 Weeks
+29;5;UEMP15OV;Civilians Unemployed - 15 Weeks & Over
+30;5;UEMP15T26;Civilians Unemployed for 15-26 Weeks
+31;5;UEMP27OV;Civilians Unemployed for 27 Weeks and Over
+32;5;CLAIMSx;Initial Claims
+33;5;PAYEMS;All Employees: Total nonfarm
+34;5;USGOOD;All Employees: Goods-Producing Industries
+35;5;CES1021000001;All Employees: Mining and Logging: Mining
+36;5;USCONS;All Employees: Construction
+37;5;MANEMP;All Employees: Manufacturing
+38;5;DMANEMP;All Employees: Durable goods
+39;5;NDMANEMP;All Employees: Nondurable goods
+40;5;SRVPRD;All Employees: Service-Providing Industries
+41;5;USTPU;All Employees: Trade, Transportation & Utilities
+42;5;USWTRADE;All Employees: Wholesale Trade
+43;5;USTRADE;All Employees: Retail Trade
+44;5;USFIRE;All Employees: Financial Activities
+45;5;USGOVT;All Employees: Government
+46;1;CES0600000007;Avg Weekly Hours : Goods-Producing
+47;2;AWOTMAN;Avg Weekly Overtime Hours : Manufacturing
+48;1;AWHMAN;Avg Weekly Hours : Manufacturing
+49;1;NAPMEI;ISM Manufacturing: Employment Index
+127;6;CES0600000008;Avg Hourly Earnings : Goods-Producing
+50;4;HOUST;Housing Starts: Total New Privately Owned
+51;4;HOUSTNE;Housing Starts, Northeast
+52;4;HOUSTMW;Housing Starts, Midwest
+53;4;HOUSTS;Housing Starts, South
+54;4;HOUSTW;Housing Starts, West
+55;4;PERMIT;New Private Housing Permits (SAAR)
+56;4;PERMITNE;New Private Housing Permits, Northeast (SAAR)
+57;4;PERMITMW;New Private Housing Permits, Midwest (SAAR)
+58;4;PERMITS;New Private Housing Permits, South (SAAR)
+59;4;PERMITW;New Private Housing Permits, West (SAAR)
+3;5;DPCERA3M086S;BEA    Real personal consumption expenditures
+4;5;CMRMTSPLx;Real Manu. and Trade Industries Sales
+5;5;RETAILx;Retail and Food Services Sales
+60;1;NAPM;ISM : PMI Composite Index
+61;1;NAPMNOI;ISM : New Orders Index
+62;1;NAPMSDI;ISM : Supplier Deliveries Index
+63;1;NAPMII;ISM : Inventories Index
+64;5;ACOGNO;New Orders for Consumer Goods
+65;5;AMDMNOx;New Orders for Durable Goods
+66;5;ANDENOx;New Orders for Nondefense Capital Goods
+67;5;AMDMUOx;Unfilled Orders for Durable Goods
+68;5;BUSINVx;Total Business Inventories
+69;2;ISRATIOx;Total Business: Inventories to Sales Ratio
+130;2;UMCSENTx;Consumer Sentiment Index
+70;6;M1SL;M1 Money Stock
+71;6;M2SL;M2 Money Stock
+72;5;M2REAL;Real M2 Money Stock
+73;6;AMBSL;St. Louis Adjusted Monetary Base
+74;6;TOTRESNS;Total Reserves of Depository Institutions
+75;7;NONBORRES;Reserves Of Depository Institutions
+76;6;BUSLOANS;Commercial and Industrial Loans
+77;6;REALLN;Real Estate Loans at All Commercial Banks
+78;6;NONREVSL;Total Nonrevolving Credit
+79;2;CONSPI;Nonrevolving consumer credit to Personal Income
+131;6;MZMSL;MZM Money Stock
+132;6;DTCOLNVHFNM;Consumer Motor Vehicle Loans Outstanding
+133;6;DTCTHFNM;Total Consumer Loans and Leases Outstanding
+134;6;INVEST;Securities in Bank Credit at All Commercial Bank
+84;2;FEDFUNDS;Effective Federal Funds Rate
+85;2;CP3Mx;3-Month AA Financial Commercial Paper Rate
+86;2;TB3MS;3-Month Treasury Bill:
+87;2;TB6MS;6-Month Treasury Bill:
+88;2;GS1;1-Year Treasury Rate
+89;2;GS5;5-Year Treasury Rate
+90;2;GS10;10-Year Treasury Rate
+91;2;AAA;Moody’s Seasoned Aaa Corporate Bond Yield
+92;2;BAA;Moody’s Seasoned Baa Corporate Bond Yield
+93;1;COMPAPFFx;3-Month Commercial Paper Minus FEDFUNDS
+94;1;TB3SMFFM;3-Month Treasury C Minus FEDFUNDS
+95;1;TB6SMFFM;6-Month Treasury C Minus FEDFUNDS
+96;1;T1YFFM;1-Year Treasury C Minus FEDFUNDS
+97;1;T5YFFM;5-Year Treasury C Minus FEDFUNDS
+98;1;T10YFFM;10-Year Treasury C Minus FEDFUNDS
+99;1;AAAFFM;Moody’s Aaa Corporate Bond Minus FEDFUNDS
+100;1;BAAFFM;Moody’s Baa Corporate Bond Minus FEDFUNDS
+101;5;TWEXMMTH;Trade Weighted U.S. Dollar Index: Major Curr
+102;5;EXSZUSx;Switzerland / U.S. Foreign Exchange Rate
+103;5;EXJPUSx;Japan / U.S. Foreign Exchange Rate
+104;5;EXUSUKx;U.S. / U.K. Foreign Exchange Rate
+105;5;EXCAUSx;Canada / U.S. Foreign Exchange Rate
+106;6;PPIFGS;PPI: Finished Goods
+107;6;PPIFCG;PPI: Finished Consumer Goods
+108;6;PPIITM;PPI: Intermediate Materials
+109;6;PPICRM;PPI: Crude Materials
+110;6;OILPRICEx;Crude Oil, spliced WTI and Cushing
+111;6;PPICMM;PPI: Metals and metal products:
+112;1;NAPMPRI;ISM Manufacturing: Prices Index
+113;6;CPIAUCSL;CPI : All Items
+114;6;CPIAPPSL;CPI : Apparel
+115;6;CPITRNSL;CPI : Transportation
+116;6;CPIMEDSL;CPI : Medical Care
+117;6;CUSR0000SAC;CPI : Commodities
+118;6;CUUR0000SAD;CPI : Durables
+119;6;CUSR0000SAS;CPI : Services
+120;6;CPIULFSL;CPI : All Items Less Food
+121;6;CUUR0000SA0L2;CPI : All items less shelter
+122;6;CUSR0000SA0L5;CPI : All items less medical care
+123;6;PCEPI;Personal Cons. Expend.: Chain Index
+124;6;DDURRG3M086SBE;Personal Cons. Exp: Durable goods
+125;6;DNDGRG3M086SBE;Personal Cons. Exp: Nondurable goods
+126;6;DSERRG3M086SBE;Personal Cons. Exp: Services
+80;5;S&P 500;S&P’s Common Stock Price Index: Composite
+81;5;S&P: indust;S&P’s Common Stock Price Index: Industrials
+82;2;S&P div yield;S&P’s Composite Common Stock: Dividend Yield
+83;5;S&P PE ratio;S&P’s Composite Common Stock: Price-Earnings Ratio

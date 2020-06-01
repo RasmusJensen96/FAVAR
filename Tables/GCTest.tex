@@ -1,0 +1,28 @@
+\begin{table}[H]
+\centering
+\caption{Granger Causality Tests}
+\label{tab:GCTest}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llllllll}
+\toprule 
+ & & \multicolumn{6}{c}{\textit{Cause}}\\ \cmidrule(l){3-8}  
+\textit{Effect} & & Factor 1 & Factor 2 & Factor 3 & CPI & IP & FFR \\ 
+\midrule 
+Factor 1 && 0      & <0.001 & 0.176  & 0.344 & 0.011 & <0.001 \\ 
+Factor 2 && 0.028  & 0      & <0.001 & <0.001 & 0.472  & 0.541 \\ 
+Factor 3 && <0.001 & <0.001 & 0      & <0.001 & 0.143 & <0.001 \\
+CPI       && 0.234 & 0.951  & 0.030  & 0     & 0.484  & 0.032 \\ 
+IP      && <0.001 & 0.451  & 0.098  & <0.001 & 0      & 0.011 \\ 
+FFR      && <0.001  & 0.0678  & 0.189  & 0.253 & <0.001  & 0 \\ 
+\bottomrule 
+\end{tabular}
+\end{adjustbox}
+\begin{minipage}{0.88\textwidth}
+    {\footnotesize
+    \begin{enumerate}
+        \item[] 
+        \item[1] Granger Causality tests, \textit{p}-values associated with the \textit{F}-test. Each column represents the regressor under consideration for the dependent variable (rows).
+        \item[2] Model specification: $Y_t = \left\{\Delta \log IP,\ \Delta \log CPI,\ \Delta FFR\right\}$, $p=3$, $K=3$. On the 1984:2019 sample.
+    \end{enumerate}
+    }\end{minipage}
+\end{table}

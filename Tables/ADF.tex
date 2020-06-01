@@ -1,0 +1,25 @@
+\begin{table}[]
+\centering
+\caption{Augmented Dickey Fuller Tests}
+\label{tab:ADFtests}
+\begin{tabular}{@{}lllll@{}}
+\toprule
+\textit{Variable}       & \textit{Order of integration} & \textit{} & \textit{Test-Statistic} & \textit{$p$-value} \\ \midrule
+\textit{CPI}            & $I(0)$                        &           & $8.182$                 & $0.999$            \\
+\textit{}               & $\log I(1)$                &           & $-4.199$                & $0.001$            \\
+\addlinespace 
+\textit{IP}             & $I(0)$                       &           & $2.697$                 & $0.998$            \\
+\textit{}               & $\log I(1)$                &           & $-9.526$                & $0.001$            \\
+\addlinespace 
+\textit{Policy Rate}    & $I(0)$                      &           & $-1.418$                & $0.146$            \\
+\textit{}               & $I(1)$                        &           & $-14.362$               & $0.001$            \\ \midrule
+\textit{Critical Value} &                               &           & $-1.941$                &                    \\ \bottomrule
+\end{tabular}
+\begin{minipage}{0.85\textwidth}
+    {\footnotesize
+    \begin{enumerate}
+        \item[] 
+        \item[1] Test regression specified with a lag-order of 4 and no deterministics. The results are robust to changes in lag order, tested on 0:12 lags. 01:1959-10.2019
+    \end{enumerate}
+    }\end{minipage}
+\end{table}
