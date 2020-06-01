@@ -1,6 +1,5 @@
 # Structural FAVAR
 This repository hosts a framework for implementing a factor-augmented vector-autoregression (FAVAR)-model in MatLab. In addition it contains replication codes for my personal Master Thesis.
-Including data, figures and TeX-files for compilation of the thesis.
 
 ## Structure
 For replicating figures and tables from the thesis, several scripts are utilized:
